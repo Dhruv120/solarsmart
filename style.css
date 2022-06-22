@@ -1,0 +1,556 @@
+*{
+    font-family: Ubuntu;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.aboutdir{
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.dd {
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.desc {
+    font-size: 3rem ;
+    font-weight: bolder;
+}
+
+.desc1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+.desc2{
+    font-size: 1.5rem;
+    /* font-weight: 800; */
+}
+/* .dirdd .dhd , h1 {
+    /* text-align: left; 
+} */
+
+.dhd {
+    margin-top: 3%;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.dhd h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+.dhd p {
+    font-size: 2rem;
+    /* font-weight: bold; */
+    margin-left: 5%;
+}
+
+.imgg2{
+    border-top-left-radius: 2.5rem;
+    border-top-right-radius: 2.5rem;
+}
+
+ 
+
+.director{
+    position: relative;
+    bottom: 40%;
+    margin-left: 10%;
+}
+
+.head1 h1 {
+    text-align: right;
+    font-size: 3rem;
+    font-weight: bolder;
+
+}
+
+.super
+{
+    height: 500px;
+}
+
+input {
+    border: 0;
+    outline: 0;
+}
+
+
+
+.head2 h1{
+    text-align: right;
+    font-size: 3rem;
+    font-weight: bolder;
+ }
+
+.second{
+    background-color: silver;
+    /* transform: translateY(-7%); */
+    margin-top: -15%;
+    /* padding-top: 3%;
+    padding-bottom: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%; */
+}
+
+.uppar{
+    height: 40.0rem;
+    background-image: url(images/cover.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.niche {
+    text-align: center;
+    background-color: rgb(216,96,1);
+   
+}
+
+.navbarr {
+    text-align: right;
+
+}
+
+.navbarr a{
+    text-decoration: none;
+    font-size: 2.5rem;
+    margin: 0 4%;
+    color: black;
+    font-weight: bold;
+
+   
+}
+
+.niche .container .upperwala{
+    padding-left:0 ;
+    /* padding-right: 0; */
+    margin-left: 6%;
+    /* margin-right: 0;  */
+}
+
+.niche h1{
+    letter-spacing: 0.7rem;
+    font-size: 7rem;
+    color: white;
+}
+.niche h2{
+    font-size: 2.5rem;
+    color: white;
+}
+
+.city{
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+.logo{
+    width: 100%;
+    position: relative;
+    bottom: 80%;
+    left: 1.7%;
+}
+
+.city span{
+
+    padding: 0 2.7rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.aboutdir {
+    
+color: rgb(254,120,10);
+    background-color: white;
+    /* border: 0.5rem solid black; */
+    border-radius: 2rem;
+    padding: 2%;
+    margin: 3%;
+    
+}
+
+.aboutdir {
+    text-align: right;
+}
+
+
+
+.aboutusout{
+    /* background-color: white; */
+    /* border: 5px solid black; */
+    border-radius: 2rem;
+    padding: 0 !important;
+    margin: 3%;
+}
+
+
+.aboutus {
+    background-color: rgb(254,120,10);
+
+    /* border: 0.5rem solid black; */
+    /* border-radius: 20px; */
+    padding: 4%;
+    
+}
+
+.aboutus h1{
+    text-decoration: underline;
+    color: azure;
+    font-weight: bolder;
+    font-size: 3.5rem;
+}
+
+.aboutus p{
+    color: azure;
+    font-size: 1.7rem;
+}
+
+.vandm {
+    color: rgb(254,120,10);
+    background-color: white;
+    margin-top: 10%;
+    padding: 4%;
+    /* border: 0.5rem solid black; */
+    
+    
+}
+
+.vandm h2{
+    font-weight: bolder;
+    font-size: 3.5rem;
+}
+
+.vandm p{
+   
+    font-size: 1.7rem;
+}
+
+
+
+.ourteamhead
+{
+    color:rgb(254,120,10) ;
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 3.6rem;
+    font-weight: bolder;
+}
+
+.ourtt {
+    background-color: white;
+    margin: 2%;
+    text-align: center;
+}
+
+.ourteam {
+    box-sizing: border-box;
+    margin: 9%;
+}
+
+.name1 {
+    color:rgb(254,120,10) ;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.name2{
+    color:rgb(254,120,10) ;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.ourt {
+    /* border: 0.2rem solid black; */
+    border-radius: 200px;
+}
+
+.extra {
+    transform: translateX(1.5%);
+    width: 100%;
+    background-color: rgb(254,120,10) ;
+    height: 10%;
+}
+
+.formm {
+    color:rgb(254,120,10) ;
+    background-color: white;
+    border-radius: 2.5rem;
+    padding: 2%;
+    margin:3% ;
+}
+
+.formm button {
+    color:rgb(255, 255, 255) ;
+    background-color:rgb(254,120,10) ;
+    font-size: 2.5rem;
+    border-radius: 5rem;
+    width: 40%;
+    border: 0.2rem solid rgb(254,120,10);
+    text-align: center;
+   
+}
+
+.icons{
+    padding: 2%;
+    margin:1% ;
+}
+
+.formm p{
+    font-size: 2.5rem ;
+    font-weight: bold;
+}
+
+.formm input {
+    font-size: 2rem;
+}
+
+.merabtn{
+    box-sizing: border-box;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.total {
+    padding: 2%;
+    margin:2% ;
+}
+
+.icons {
+    box-sizing: border-box;
+    margin-left: 5%;
+
+}
+
+.icons i{
+    margin: 2% 0;
+    color:rgb(254,120,10) ;
+}
+
+.map{
+    width: 100%;
+    margin: 2% ;
+    /* border: 0.5rem solid white; */
+    border-radius: 1.0rem;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.bottom{
+   
+    background-image: linear-gradient(rgb(226,82,32), rgb(248,200,6));
+}
+
+.colum-1{
+    color: aliceblue;
+    text-align: center;
+    /* box-sizing: border-box; */
+    margin: 3% 3%;
+}
+
+
+.colum-1 .logo2{
+transform: translateX(50%);
+    width: 50%;
+}
+
+.colum{
+    color: aliceblue;
+    /* text-align: center; */
+    box-sizing: border-box;
+    margin: 3% 3%;
+}
+
+.colum-1 .spcc h2{
+    font-size: 1.8rem;
+}
+
+.subscribe {
+    font-size: 2rem;
+}
+
+.colum i{
+    margin: 1.5% 4%;
+}
+
+.colum h4{
+    margin-top: 2%;
+    font-size: 2.0rem;
+}
+
+
+
+@media (max-width: 1200px) and (min-width :990px)
+{
+    html{
+        font-size: 50%;
+    }
+    
+    /* .second{
+        transform: translateY();
+
+    } */
+
+    
+}
+
+@media (max-width: 989px) and (min-width:769px) {
+    html{
+        font-size: 40%;
+    }
+    /* .second{
+        transform: translateY();
+
+    } */
+  
+}
+
+@media (max-width: 768px) and (min-width:481px) {
+
+
+    html{
+        font-size: 30%;
+    }
+    /* .scrolling {
+        height: 30vh;
+    } */
+    /* .second{
+        transform: translateY();
+
+    } */
+    
+
+}
+
+@media (max-width: 480px) and (min-width:0px) {
+
+
+    html{
+        font-size: 20%;
+    }
+    
+    /* .scrolling {
+        height: 30vh;
+    } */
+    /* .second{
+        transform: translateY();
+    } */
+
+}
+
+
+/* 00000000000000000000000000000000000000000000000000000 */
+
+.scrolling{
+    /* scroll-behavior: smooth; */
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    /* overflow-y: auto; */
+    height: 80vh;
+    width: 90%;
+    border: 10px solid rgb(254,120,10);
+}
+
+ .navbar {
+   
+  position:sticky;
+  top: 0;
+    /* text-align: center; 
+    font-size: large;
+    background-color: azure;*/
+   
+}
+
+/*
+.navbar a{
+    margin-left: 2%;
+    margin-right: 2%;
+    text-decoration: none;
+    
+}
+*/
+
+
+/* .nav{
+	width: 100%;
+	height: 50px;
+    background: rgba(200,200,200,0.2);
+    position: fixed;
+    top: 0px;
+}
+
+#menu{
+	float: right;
+   	font-size: 40px;
+   	font-weight: normal;
+   	padding-right: 20px;
+   	color: rgba(100,100,100,0.9);;
+}
+
+.nav ul{
+	width: 150px;
+	list-style-type: none;
+	background: rgba(200,200,200,0.2);
+    border-radius: 5px;
+}
+
+#top-menu{
+   clear: both;
+   display: block;
+   float: right;
+   padding-left: 0px;
+   margin-top: 10px;
+   margin-right: 20px;
+
+}
+.links{
+	color: black;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.nav ul li a{
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	padding: 2px 0px 2px 10px;
+}
+.nav ul li a:hover{
+	color: #fff;
+	background-color: black;
+	border-left: thick solid red;
+}
+
+#wrapper{
+	margin-top: 50px;
+}
+
+.cont{
+	width: 800px;
+	height: 600px;
+	margin: 0px auto;
+    background: rgba(200,200,200,0.2);
+    border-bottom: 1px solid rgba(200,200,200,1);
+    padding: 20px;
+}
+
+.active{
+	color: white;
+	background-color: rgba(100,100,100,1);
+	border-left: thick solid rgba(0,255,0,0.5);
+} */
+
+
+.glry{
+    height: 100%;
+    width: 100%;
+}
