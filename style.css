@@ -639,7 +639,8 @@ transform: translateX(50%);
 .secondary-bg {
     background-color: var(--secondaryColor);
 }
-.effect-btn {
+/*
+ .effect-btn {
     display: inline-block;
     position: relative;
     overflow: hidden;
@@ -683,6 +684,7 @@ transform: translateX(50%);
     color: #fff;
 }
 /* header & banner css strat */
+/*
 .header {
     position: fixed;
     top: 0;
@@ -744,6 +746,7 @@ transform: translateX(50%);
 .navbar-nav .nav-item .nav-link:hover:before, .navbar-nav .nav-item a.active:before, .navbar-nav .nav-item .nav-link:hover:after, .navbar-nav .nav-item a.active:after {
     width: 100%;
 }
+
 .menu__city .city__list ul li a:hover{
     color: var(--primaryColor);
 }
@@ -777,11 +780,14 @@ transform: translateX(50%);
             align-items: center;
     padding-left: 50%;
 }
+*/
 .centered-img-wrapper {
     position: relative;
     overflow: hidden;
-    /* padding-top: 100%; */
+     padding-top: 100%; 
 }
+
+
 .centered-img {
     width: 100%;
     height: 100%;
@@ -793,6 +799,7 @@ transform: translateX(50%);
     -o-object-fit: cover;
        object-fit: cover;
 }
+/*
 .hero__banner--content h1 {
     font-size: 52px;
     letter-spacing: 16px;
@@ -832,6 +839,7 @@ transform: translateX(50%);
 /* header & banner css end */
 /* second section css start */
 
+/*
 .menu__city .city__list ul {
     list-style-type: none;
     padding: 10px 0px;
@@ -878,7 +886,7 @@ transform: translateX(50%);
 
 .details__block .left__blog .img__blog .person__img img {
     width: 150px;
-    /*height: 180px;*/
+    height: 180px;
     -o-object-fit: cover;
        object-fit: cover;
     border: 2px solid;
@@ -914,6 +922,8 @@ transform: translateX(50%);
     margin-bottom: 40px;
 }
 /* about section */
+
+/*
 .details__block .about__blog h2,.details__block .about__blog p{
     color: var(--secondaryColor);
 }
@@ -953,7 +963,7 @@ transform: translateX(50%);
 }
 /* second section css end */
 /* team css start */
-
+/*
 .team__section {
     padding: 30px 0px;
 }
@@ -989,14 +999,18 @@ transform: translateX(50%);
 .team__name p {
     margin-bottom: 0;
 }
+*/
 .bg__gray{
     background-color: #f4f4f4;
 }
+/*
 .team__heading h2 {
     margin-top: 60px;
     text-transform: uppercase;
-    margin-left: 20px;
+    margin-left: 20px; 
 }
+
+
 /* team css end */
 /* projects css start */
 
@@ -1049,7 +1063,7 @@ transform: translateX(50%);
     transform: scale(1.2);
     transition: all 0.6s ease-in-out;
 }
-
+/*
 @media screen and (max-width: 991px) {
     .portfolio-item .item {
         width: 50%;
@@ -1058,6 +1072,7 @@ transform: translateX(50%);
 /* isotop css end */
 
 /*form css start*/
+/*
 .google--map {
     padding-top: 67.5%;
 }
@@ -1131,7 +1146,7 @@ transform: translateX(50%);
     margin: 10px 0px;
     }
     }
-    /*form css end*/
+    /*form css end
     .wrapper--contact {
         width: 100%;
     }
@@ -1184,10 +1199,10 @@ transform: translateX(50%);
         object-fit: cover;
     }
     .screen-body-item .contact__icon a:hover {
-        /*filter: grayscale(1);*/
+        /*filter: grayscale(1);
     }
 /* footer css start */
-
+/*
 .footer__bg {
     background-image: url(../images/footer.jpg);
     background-repeat: no-repeat;
@@ -1272,6 +1287,7 @@ transform: translateX(50%);
 }
 /* footer css end */
 /* media start */
+/*
 @media(max-width: 1400px){
     .details__block .left__blog .img__blog .name__detailes{
         padding-left: 20%;
@@ -1505,7 +1521,7 @@ transform: translateX(50%);
 
 
 
-
+*/
 
 
 
